@@ -22,7 +22,7 @@
 ---@field bright_cyan string
 ---@field bright_white string
 return {
-    bg = "#0e0f1b",
+    bg = "#120f19",
     fg = "#fefcff",
 
     comment = "#8c90d9",
@@ -30,7 +30,7 @@ return {
     gutter_fg = "#2b2f54",
     nontext = "#1a1c32",
 
-    black = "#0e0f1b",
+    black = "#120f20",
     red = "#f5523d",
     green = "#47eb9e",
     yellow = "#ebfb37",
