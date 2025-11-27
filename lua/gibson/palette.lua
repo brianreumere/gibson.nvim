@@ -22,7 +22,7 @@
 ---@field bright_cyan string
 ---@field bright_white string
 return {
-    bg = "#120f19",
+    bg = "#0c0416",
     fg = "#fefcff",
 
     comment = "#cccfff",
@@ -31,20 +31,20 @@ return {
     nontext = "#2e2640",
 
     black = "#120f19",
-    red = "#e65e4c",
-    green = "#57db9d",
-    yellow = "#e5f25a",
-    blue = "#9ea2fa",
-    magenta = "#d693ec",
-    cyan = "#86f7f9",
-    white = "#fffeff",
+    red = "#f5523d",
+    green = "#47eb9e",
+    yellow = "#ebfb37",
+    blue = "#6e90f7",
+    magenta = "#da8af5",
+    cyan = "#80fdff",
+    white = "#fefcff",
 
-    bright_black = '#2e2640',
-    bright_red = "#ef9b8f",
-    bright_green = "#96e9c2",
-    bright_yellow = "#f0f7a1",
-    bright_blue = "#cccfff",
-    bright_magenta = "#e6bef4",
-    bright_cyan = "#b6fafc",
+    bright_black = '#1a1c32',
+    bright_red = "#ff7866",
+    bright_green = "#6ef7b7",
+    bright_yellow = "#f2ff66",
+    bright_blue = "#9eb5fa",
+    bright_magenta = "#ecb3ff",
+    bright_cyan = "#b3feff",
     bright_white = "#ffffff",
 }
